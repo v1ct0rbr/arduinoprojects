@@ -1,0 +1,2 @@
+&G[TIMEZONE=-3] // Distancia do sensor em relacao ao topo da caixa
+[HASH_CONN=59412c16dee710cd7be629726a908732ccff4d5c11bc2aa7c30c2c7e7825c184] // Distancia do sensor em relacao ao topo da caixa

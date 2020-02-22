@@ -1,0 +1,94 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+body{
+    background: #ccc url("../img/body_background.jpg") bottom fixed no-repeat;
+}
+body #fullpage{
+    background: #fff;
+}
+
+form div.form-group-lg{
+    margin-bottom: 10px;
+}
+
+.carousel .carousel-control{
+    background: none;
+}
+
+.input-group-addon img{
+    width: 15px;
+}
+
+.navbar-inverse{
+    background: #ccc; 
+    border: none;
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: #3c3c3c;
+}
+/*.navbar-inverse .navbar-nav>li:hover{
+    color: #3c3c3c;
+}*/
+footer{
+    background: #3c3c3c;
+    color: #999;
+    display: table;
+    content: " ";
+    box-sizing: border-box;
+    border-top: 1px solid #999;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 1030;
+    transform: translate3d(0px, 0px, 0px);
+    min-height: 80px;
+    border-radius: 5px 5px 0px 0px;
+    z-index: 1030;
+    margin: auto;
+    width: 95%;
+    padding-left: 5%;
+    padding-top: 15px;
+
+}
+
+.arrow{
+    opacity:0.8;
+    background-color: #3c3c3c;
+}
+
+.dirText{
+    color:white;
+    font-size:40px;
+    margin-top:45px;
+    opacity:0.0;
+}
+
+.control{
+    position:fixed;
+    width:170px;
+    cursor:pointer;
+
+}
+
+#rightControl{
+    right:0px;
+    top:40%;
+}
+
+#leftControl{
+    left:0px;
+    top:40%;
+}
+
+
+
+
+
+
+

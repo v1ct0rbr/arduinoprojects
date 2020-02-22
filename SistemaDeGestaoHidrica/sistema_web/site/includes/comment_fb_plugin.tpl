@@ -1,0 +1,1 @@
+<div class="fb-comments" data-href="{$url_comment}" data-version="v2.3"></div>

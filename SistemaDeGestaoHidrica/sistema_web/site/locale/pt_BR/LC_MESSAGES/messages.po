@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JardimAlforria (versão1)\n"
+"POT-Creation-Date: 03-03-2015 \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Victor <victorqueiroga.jp@gmail.com>\n"
+"Language-Team: Victor <victorqueiroga.jp@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.6.10\n"
+
+# ===========comum===========
+
+msgid "and"
+msgstr "e"
+
+msgid "help"
+msgstr "ajuda"
+
+msgid "next"
+msgstr "próximo"
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "event"
+msgstr "evento"
+
+msgid "images"
+msgstr "Imagens"
+
+msgid "noticia"
+msgstr "news"
+
+msgid "submit"
+msgstr "Enviar"
+
+msgid "print"
+msgstr "Imprimir"
+
+msgid "posted"
+msgstr "Postado"
+
+msgid "click_here"
+msgstr "Clique aqui"
+
+msgid "clean_fields"
+msgstr "Limpar Campos"
+
+msgid "characters_left"
+msgstr "Caracteres Restantes"
+
+msgid "fill_in_correctly"
+msgstr "Preencha os campos corretamente"
+
+msgid "read_more"
+msgstr "Ler mais"
+
+msgid "see_details"
+msgstr "Detalhes"
+
+msgid "current_language"
+msgstr "Idioma Atual"
+
+msgid "in_progress"
+msgstr "Em andamento"
+
+msgid "no_news"
+msgstr "Não há notícias"
+
+msgid "no_events"
+msgstr "Não há eventos"
+
+msgid "no_images"
+msgstr "Não há imagens"
+
+msgid "not_found"
+msgstr "Não encontrado"
+
+msgid "no_results"
+msgstr "Sem resultado"
+
+msgid "soon"
+msgstr "Em breve"
+
+msgid "click_to_enlarge"
+msgstr "Clique para ampliar"
+
+msgid "recent_posts"
+msgstr "Posts Recentes"
+
+msgid "no_recent_posts"
+msgstr "Não há notícias recentes"
+
+msgid "day"
+msgstr "Dia(s)"
+
+msgid "hour"
+msgstr "Hora(s)"
+
+msgid "minute"
+msgstr "Minuto(s)"
+
+msgid "second"
+msgstr "segundo(s)"
+
+msgid "hour_short"
+msgstr "hrs"
+
+msgid "minute_short"
+msgstr "min"
+
+msgid "second_short"
+msgstr "seg"
+
+msgid "category"
+msgstr "Categoria"
+
+msgid "categories"
+msgstr "Categorias"
+
+msgid "choose_the_gallery"
+msgstr "Escolha a galeria"
+
+
+# ========== fim comum ==========
+
+# ============ Erros ============
+
+msgid "unknown_system_error"
+msgstr "Erro desconhecido do Sistema"
+
+msgid "unknown_system_error_detail"
+msgstr "Não foi possível detectar a origem do problema. Experimente retornar e recarregar a página."
+
+msgid "error404"
+msgstr "Página não encontrada"
+
+msgid "error404_detail"
+msgstr "A página que você procura não existe..."
+
+msgid "error403"
+msgstr "Você não tem permissão"
+
+msgid "error403_detail"
+msgstr "A página que você está tentando acessar é bloqueada"
+
+# ========Fim Erros========
+# ==========footer===========
+msgid "our_site"
+msgstr "Nosso Site"
+
+msgid "our_company_in_facebook"
+msgstr "Nossa Empresa no Facebook"
+
+msgid "about_our_company"
+msgstr "Sobre nossa Empresa"
+
+msgid "about_details"
+msgstr "O Jardim Alforria é um espaço holístico criado a partir da energia amorosa para possibilitar trabalhos e estudos que..."
+
+msgid "copyright"
+msgstr "Todos os direitor reservados."
+
+msgid "developed_by"
+msgstr "Desenvolvido por"
+
+msgid "cooperated_by"
+msgstr "em cooperação com"
+
+msgid "change_pt_br"
+msgstr "Mudar para Português/Brasil"
+
+msgid "change_en"
+msgstr "Mudar para Inglês/Estados Unidos"
+
+msgid "change_fr"
+msgstr "Mudar para Francês"
+
+# =========fim footer========
+
+# ==========Menu===========
+msgid "home"
+msgstr "Página Inicial"
+
+msgid "about"
+msgstr "Sobre"
+
+msgid "events"
+msgstr "Eventos"
+
+msgid "facilities"
+msgstr "Instalações"
+
+msgid "albuns"
+msgstr "Álbuns"
+
+msgid "gallery"
+msgstr "Galeria"
+
+msgid "blog"
+msgstr "Blog"
+
+msgid "contact"
+msgstr "Contato"
+
+msgid "institutional"
+msgstr "Institucional"
+
+msgid "reservation"
+msgstr "Reserva"
+
+# =========fim menu==========
+# ===========captcha================
+msgid "reload_captcha"
+msgstr "Recarregar código"
+
+msgid "listen_captcha"
+msgstr "ouvir áudio"
+
+msgid "change_for_image_captcha"
+msgstr "Mudar para imagem"
+
+msgid "insert_code"
+msgstr "Insira o código"
+
+msgid "insert_code_listened"
+msgstr "Insira o código que você escuta"
+
+msgid "listen_code_again"
+msgstr "Reproduzir som novamente"
+
+msgid "download_sound_mp3"
+msgstr "Fazer download do som no formato MP3"
+
+msgid "captcha_not_empty"
+msgstr "O código solicitado é necessário"
+
+msgid "incorrect_solution"
+msgstr "Código Inválido. Tente novamente"
+
+# =========fim do captcha===========
+# =========especiais============
+msgid "required"
+msgstr "Necessário"
+
+# =========fim - especiais======
+# =========Page - HOME =========
+
+msgid "home_more_upcoming_events"
+msgstr "Mais eventos próximos"
+
+msgid "home_no_more_upcoming_events"
+msgstr "AINDA NÃO HÁ EVENTOS FUTUROS CADASTRADOS"
+
+msgid "home_last_news"
+msgstr "Últimas Notícias"
+
+msgid "home_frase1"
+msgstr "A LIBERDADE É A MAIOR BENÇÃO CONCEDIDA"
+
+msgid "home_frase2"
+msgstr "...que neste lugar todos tenham alforria de sua alma"
+
+msgid "home_all_events"
+msgstr "todos os eventos"
+
+msgid "home_know_our_company"
+msgstr "Conheça nossas instalações"
+
+msgid "home_see_more_pictures"
+msgstr "Veja mais fotos"
+
+msgid "featured"
+msgstr "Em destaque"
+
+msgid "home_featured_event"
+msgstr "Evento em destaque"
+
+msgid "home_featured_albun"
+msgstr "Álbum em destaque"
+
+
+
+# ========= fim - home =========
+
+# ======== page - about ========
+
+msgid "about_what_is_jardim_alforria"
+msgstr "O que é o Jardim Alforria?"
+
+msgid "about_what_is_jardim_alforria_details"
+msgstr "O Jardim Alforria é um espaço holístico criado a partir da energia amorosa para possibilitar trabalhos e estudos que venham contribuir para o aprendizado, desenvolvimento e cura do ser."
+
+msgid "about_localization"
+msgstr "Localização"
+
+msgid "about_localization_details"
+msgstr "BR 101 – Km 114, na zona rural do município de Pedras de Fogo (PB), a 90 km da cidade do Recife (PE) e 40 km da cidade de João Pessoa (PB). “Eu sou um jardim mágico, abro-me com as flores, canto com os pássaros e sopro com o vento para dançar a coreografia sagrada do universo.”"
+
+msgid "about_to_know_our_company"
+msgstr "para conhecher nossas instalações"
+
+# ========= fim - about ========
+# =======Page - eventos========
+msgid "events_list_events"
+msgstr "Lista de Eventos"
+
+msgid "events_find_events"
+msgstr "Procurar eventos"
+
+msgid "events_next_event"
+msgstr "Próximo Evento"
+
+msgid "events_contact_us"
+msgstr "Contate-nos"
+
+msgid "events_details"
+msgstr "Detalhes do Evento"
+
+msgid "events_make_reservation"
+msgstr "Fazer Reserva"
+
+msgid "events_finalized_event"
+msgstr "Finalizado"
+
+msgid "events_more_close_events"
+msgstr "Eventos mais próximos"
+
+# ======= fim - eventos========
+
+# =======Page - Contato========
+msgid "telefone"
+msgstr "Telefone (ex.: +55831234-5678)"
+
+msgid "fone"
+msgstr "Fone"
+
+msgid "fax"
+msgstr "Fax"
+
+msgid "send"
+msgstr "Enviar"
+
+msgid "send_a_message"
+msgstr "Envie uma mensagem"
+
+msgid "send_a_message_details"
+msgstr "Envie-nos uma mensagem que, em breve, retornaremos"
+
+msgid "fill_the_form_below"
+msgstr "Preencha o formulário abaixo"
+
+msgid "send_message"
+msgstr "Enviar mensagem de contato?"
+
+msgid "name"
+msgstr "Nome"
+
+msgid "email"
+msgstr "E-mail"
+
+msgid "website"
+msgstr "Website"
+
+msgid "subject"
+msgstr "Assunto"
+
+msgid "choose_an_event"
+msgstr "Escolha um dos eventos futuros"
+
+msgid "message"
+msgstr "Mensagem"
+
+msgid "find_posts"
+msgstr "Procurar posts"
+
+msgid "uncategorized"
+msgstr "Sem categoria"
+
+msgid "no_categories"
+msgstr "Não há categorias"
+
+msgid "by_category"
+msgstr "por categoria"
+
+# =======fim Contato========
+
+# =======GALLERY==========
+msgid "see_pictures"
+msgstr "Veja as fotos"
+
+# =======FIM GALLERY======
+
+# ==========BLOG==========
+
+msgid "post_comment"
+msgstr "Postar comentário"
+
+msgid "your_name"
+msgstr "Seu nome"
+
+msgid "your_email"
+msgstr "Seu e-mail"
+
+msgid "your_comment"
+msgstr "Seu comentário"
+
+msgid "send_your_comment"
+msgstr "Enviar comentário"
+
+msgid "send_your_reply"
+msgstr "Enviar resposta"
+
+msgid "reply"
+msgstr "Responder"
+
+msgid "comment_sent"
+msgstr "comentário enviado com sucesso. Espere a aprovação"
+
+msgid "comment_sent_error"
+msgstr "Erro no envio da mensagem"
+
+msgid "in_response_to"
+msgstr "Em resposta à"
+
+# ========================
+
+# =======Erros========
+msgid "name_not_empty"
+msgstr "O nome não pode ficar vazio"
+
+msgid "mail_not_empty"
+msgstr "O e-mail não pode ficar vazio"
+
+msgid "subject_not_empty"
+msgstr "O assunto é necessário"
+
+msgid "url_not_valid"
+msgstr "A url fornecida não é válida"
+
+msgid "comment_not_empty"
+msgstr "A mensagem não pode ficar vazia"
+
+msgid "not_email"
+msgstr "Digite um e-mail válido"
+
+msgid "not_url"
+msgstr ""
+"Digite uma URL(endereço web) válida. Exemplo: http://www.boterosolutions.com."
+"br"
+
+msgid "name_size_error"
+msgstr "Nome com tamanho superior ao permitido"
+
+msgid "event_not_found"
+msgstr "Evento não encontrado. "
+
+msgid "email_size_error"
+msgstr "e-mail com tamanho superior ao permitido"
+
+msgid "subject_size_error"
+msgstr "assunto com tamanho superior ao permitido"
+
+msgid "phone_size_error"
+msgstr "telefone com tamanho superior ao permitido"
+
+msgid "message_size_error"
+msgstr "Mensagem com tamanho superior ao permitido"
+
+msgid "message_min_size_error"
+msgstr "Mensagem deve ter um tamanho mínimo de"
+
+msgid "message_sent"
+msgstr "Mensagem enviada com sucesso"
+
+msgid "message_sent_error"
+msgstr "Erro no envio da mensagem"
+
+msgid "captcha_code_error"
+msgstr "O código informado é incorreto."
+
+msgid "reload_the_page"
+msgstr "Recarregue a página."
+
+msgid "no_data_returned"
+msgstr "Nenhum dado foi retornado"
+
+msgid "errors_found"
+msgstr "Erros foram encontrados"
+
+
+
+# =======fim erros========
+
